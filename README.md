@@ -38,4 +38,4 @@ Testing Talons:
 Make sure you go into the roborio webpage and check to see everything is working and configured properly. Two can devices cannot have the same port so change ports as necessary so every device has a unique port. If you have talons not showing up it may mean multiple talons have the same port. Just change one of them (usually the one with port 0), refresh, then the other should appear.
 
 
-If you have anymore questions just text me and I will do my best to help. This code should work, so if something isn't working its probably a port issue or a wiring issue. Check those first before you tell me my code doesn't work.
+If you have anymore questions just text me and I will do my best to help. This code should work, so if something isn't working its probably a port issue or a wiring issue. Check those first.
