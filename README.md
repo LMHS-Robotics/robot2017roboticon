@@ -1,7 +1,7 @@
 # robot2017roboticon
 Brandon's code, you owe me for this.
 Robotbuilder videos: https://www.youtube.com/watch?v=UGSvE77Hpls&list=PLhwpRbR67J4aEIyWNE4p-IlIDJFm6kHLe
-
+WHEN IMPORTING: when you first import the project into eclipse, everything may be read and all messed up. Right click on the project then go to index > rebuild. Then right click on the project again and go to index > freshen all files. That should fix it.
 
 
 Editing ports:
