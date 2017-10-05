@@ -15,6 +15,11 @@ If you need to change the speed that can be done under the DriveTrain.cpp file u
 
 
 
+Changing lift speeds and gear grabber speeds:
+If you need to change the speed of the lift you can do that under Lift.cpp in the subsystems folder. Edit the value the liftMotor is being set to in the liftIt() function.
+If you need to change the speeds the grabber goes up and down or reverse the directions if its not working right you can do that under the GearGrabber.cpp in the subsystems folder. Look for the values under gearUp() and gearDown() functions.
+
+
 Compressor Turning On:
 The compressor will only turn on if the robot is enabled in teleop or autonomous. For saftey reasons you cannot turn on the compressor when the robot is disabled (i.e, can't turn it on when robot boots). So for matches you need to enable it while queing so it can have full pressure when starting.
 
