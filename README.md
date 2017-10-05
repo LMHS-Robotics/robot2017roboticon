@@ -30,7 +30,7 @@ Joystick (xbox controller):
 You may want to change which button does what. You can do this in the OI.cpp file. Simply change the number in the reset command for the button (i.e shifterButton.reset(new JoystickButton(stick.get(), 5)); you would change the 5 to the button number you desire)
 Heres an image of the mapping for xbox controllers:
 ![alt text](http://i245.photobucket.com/albums/gg79/traycerb/Xbox360WirelessControllerImageX3.jpg)
-
+Mapping I have it set too: A Button - gear grabber down. Y Button - gear grabber up. B Button - lift. Left Bumper - gear grab toggle. Right Bumper - shifter for drivetrain toggle.
 
 
 
